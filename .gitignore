@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# hexo generate file
+.deploy_git
+public
